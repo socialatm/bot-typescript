@@ -4,13 +4,13 @@
         "@atproto/lexicon": "^0.3.1",
         "@atproto/repo": "^0.3.7",
         "@atproto/xrpc-server": "^0.4.2",
-        "cron": "^3.1.0",
-        "dotenv": "^16.3.1",
+        "cron": "^3.3.0",
+        "dotenv": "^16.4.7",
         "process": "^0.11.10"
     },
     "devDependencies": {
         "@types/node": "^20.1.2",
-        "ts-node": "^10.9.1",
-        "typescript": "^5.0.4"
+        "ts-node": "^10.9.2",
+        "typescript": "^5.7.2"
     }
 }
